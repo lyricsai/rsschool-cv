@@ -18,15 +18,20 @@ HTML, CSS, SCSS, Git, JavaScript, React
 Experience
 
 Sun Project. An Art School Agency presenting students portfolios.
-E-commerce
-Landing Pages
+
+E-commerce.
+
+Landing Pages.
 
 Work Experience
 
-August 2021 - present   -   Freelance Web Developer 
-2018 - May 2021  -  Maternity Leave 
-2016 - 2021  -  Freelance Illustator, Graphic Artist 
-2013 - 2016  -  Physician
+August 2021 - present   -   Freelance Web Developer.
+
+2018 - May 2021  -  Maternity Leave.
+
+2016 - 2021  -  Freelance Illustator, Graphic Artist.
+
+2013 - 2016  -  Physician.
 
 Languages
 
@@ -37,9 +42,14 @@ Code examples: https://github.com/lyricsai
 
 Education
 
-October 2021 - January 2022 EPAM FrontEnd outside training 
-July 2021 - Febrary 2022 freecodecamp 
-April 2021 - June 2021 HTML,CSS Course 
-2020 Webflow Course 
-2016 - 2020 Art School 'Kluch' 
-2007 - 2013 Gomel State Medical University - General Medicine
+October 2021 - January 2022 EPAM FrontEnd outside training.
+
+July 2021 - Febrary 2022 freecodecamp.
+
+April 2021 - June 2021 HTML,CSS Course.
+
+2020 Webflow Course.
+
+2016 - 2020 Art School 'Kluch'.
+
+2007 - 2013 Gomel State Medical University - General Medicine.
