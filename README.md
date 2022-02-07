@@ -1,1 +1,1 @@
-# rsschool-cv
+https://lyricsai.github.io/rsschool-cv/cv
