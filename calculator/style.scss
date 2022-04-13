@@ -1,0 +1,61 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    font-family: Gotham Rounded, sans-serif;
+}
+
+button {
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(
+        to bottom,
+        rgb(226, 232, 232),
+        rgb(200, 200, 211)
+    );
+}
+
+.wrapper {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.grid__container {
+    display: grid;
+    grid-template: repeat(5, 40px) / repeat(4, 40px);
+    gap: 1px;
+    background: rgb(255, 255, 240);
+
+    & > button {
+        cursor: pointer;
+        border: none;
+        background: rbga(255, 255, 255, 0.75);
+    }
+}
+
+input {
+    width: 164px;
+    height: 50px;
+    border: none;
+    font-size: 24px;
+    color: rgb(255, 255, 240);
+    background: #222;
+    text-align: right;
+}
+
+.ac,
+.equal {
+    grid-column: span 2;
+}
+
+.equal {
+    background: rgb(189, 200, 211);
+}
